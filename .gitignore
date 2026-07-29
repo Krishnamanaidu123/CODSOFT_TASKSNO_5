@@ -1,8 +1,0 @@
-node_modules/
-.env
-data/
-storage/encrypted/*
-!storage/encrypted/.gitkeep
-uploads/*
-!uploads/.gitkeep
-*.log
